@@ -33,7 +33,7 @@ Proof-of-Concepts and research:
 - Business logic flaws analysis
 - Secure coding practices
 
-## 🛠️ Tech Stack & Security Tools
+## Tech Stack & Security Tools
 
 ### Web Application Security
 <p align="left">
