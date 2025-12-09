@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Fragmer2&label=Profile%20views&color=0e75b6&style=flat" alt="Fragmer2" />
   <a href="https://hackerone.com/fragmer2"><img src="https://img.shields.io/badge/HackerOne-Profile-black?logo=hackerone" alt="HackerOne"></a>
-  <a href="https://tryhackme.com"><img src="https://img.shields.io/badge/TryHackMe-Learning-purple?logo=tryhackme" alt="TryHackMe"></a>
+  <a href="[https://tryhackme.com](https://tryhackme.com/p/Fragmer2)"><img src="https://img.shields.io/badge/TryHackMe-Learning-purple?logo=tryhackme" alt="TryHackMe"></a>
   <img src="https://img.shields.io/badge/Bug_Bounty-Hunter-green" alt="Bug Bounty">
 </p>
 
