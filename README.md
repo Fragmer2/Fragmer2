@@ -1,4 +1,4 @@
-<h1 align="center">🔐 Bohdan Stepantsov - Security Researcher</h1>
+<h1 align="center">Bohdan Stepantsov - Security Researcher</h1>
 <h3 align="center">Full-Stack Developer → Bug Bounty Hunter | Web Application Security Specialist</h3>
 
 <p align="center">
@@ -8,12 +8,12 @@
   <img src="https://img.shields.io/badge/Bug_Bounty-Hunter-green" alt="Bug Bounty">
 </p>
 
-## 🚀 About Me
+## About Me
 **Security-focused developer** with 3+ years experience transitioning into professional bug bounty hunting. I combine **full-stack development knowledge** with offensive security testing to identify complex vulnerabilities.
 
 **Recent Achievement:** Discovered critical stored XSS → token theft → internal API exposure chain in financial platform.
 
-## 🔥 Featured Security Projects
+## Featured Security Projects
 
 ### [Bug Bounty Toolkit](https://github.com/Fragmer2/bugbounty-tools)
 Python scripts for reconnaissance and vulnerability scanning:
